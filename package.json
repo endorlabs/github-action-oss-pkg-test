@@ -1,6 +1,6 @@
 {
   "name": "github-action-oss-pkg-test",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Dummy package used for integration testing of Github actions oss package scan",
   "main": "app.js",
   "scripts": {
