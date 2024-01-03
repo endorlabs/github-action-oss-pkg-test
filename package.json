@@ -1,0 +1,14 @@
+{
+  "name": "github-action-oss-pkg-test",
+  "version": "0.0.1",
+  "description": "Dummy package used for integration testing of Github actions oss package scan",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nitesh Saxena",
+  "license": "ISC",
+  "dependencies": {
+    "semver": "6.0.0"
+  }
+}
